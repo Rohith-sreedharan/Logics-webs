@@ -1,7 +1,14 @@
-Logicism, Intuitionism and Formalism
-Rohith SV
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta charset="utf-8">
+		<title>Logicism For Class 12</title>
+<-- Logicism, Intuitionism and Formalism
+Rohith SV -->
 
-
+</head>
+<body>
 During the first half of the 20th century, the philosophy of mathematics was dominated by three views: logicism, intuitionism, and formalism. Given this, it might seem odd that none of these views has been mentioned yet. The reason is that (with the exception of certain varieties of formalism) these views are not views of the kind discussed above. 
 
 The views discussed above concern what the sentences of mathematics are really saying and what they are really about. But logicism and intuitionism are not views of this kind at all, and insofar as certain versions of formalism are views of this kind, they are versions of the views described above. How then should logicism, intuitionism, and formalism be characterized? In order to understand these views, it is important to understand the intellectual climate in which they were developed. During the late 19th and early 20th centuries, mathematicians and philosophers of mathematics became preoccupied with the idea of securing a firm foundation of mathematics. That is, they wanted to show that mathematics, as ordinarily practiced, was reliable or trustworthy or certain. It was in connection with this project that logicism, intuitionism, and formalism were developed.
@@ -1339,4 +1346,4 @@ Resources
 
        Intuitionism: points out non-formal, but “intuitive” subjects, as fundamental for the foundation of mathematics. And I would say they do not reject deep philosophical questions about the nature of mathematics.
 
-     
+     </body>
